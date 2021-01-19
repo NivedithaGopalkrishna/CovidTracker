@@ -7,4 +7,4 @@ Steps to run the application:
 1. Download the project
 2. Use IntelliJ to open the project
 3. Click on Run
-4. Open brower -> use "localhost:8080/" to view the application
+4. Open browser -> use "localhost:8080/" to view the application
