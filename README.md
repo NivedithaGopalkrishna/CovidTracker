@@ -1,6 +1,6 @@
 # CovidTracker
 
-This is a Covid Tracker application developed using Java Spring Boot to create a service providing information on the total number of cases & new cases of COVID-19 reported for every country across the world. 
+This is a Covid Tracker application developed using Java Spring Boot & Thymleaf to create a service providing information on the total number of cases & new cases of COVID-19 reported for every country across the world. 
 
 Steps to run the application:
 
